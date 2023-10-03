@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
 git commit -m 'ollha'
-git push h
+git push h 
